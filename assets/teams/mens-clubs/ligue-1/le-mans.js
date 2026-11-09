@@ -1,4 +1,4 @@
- kits: {
+kits: {
     home: {
       label: "Home",
       paper: "#B01414",
@@ -88,6 +88,3 @@
     { id: "mafouta", name: "Louis Mafouta", number: 14, position: "FW", nation: "CAF" },    
     { id: "calodat", name: "Lucas Calodat", number: 22, position: "FW", nation: "FRA" },    
     { id: "harhou", name: "William Harhou", number: 20, position: "FW", nation: "FRA" },    
- 
-  ]
-});
